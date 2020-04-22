@@ -1,1 +1,1 @@
-# opentelemetry-python-kafka
+# OpenTelemetry Workshop -- Python
