@@ -1,6 +1,6 @@
 Flask
 kafka-python
-opentelemetry-api==0.6b0
+opentelemetry-api==1.45.1
 opentelemetry-sdk==0.6b0
 opentelemetry-ext-flask==0.6b0
 opentelemetry-ext-jaeger==0.6b0
